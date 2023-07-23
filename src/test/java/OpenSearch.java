@@ -6,6 +6,6 @@ import static com.codeborne.selenide.Selenide.open;
 public class OpenSearch {
     @Test
     void openSearchTest(){
-        open ("https://google.com");
+        open ("https://ya.ru");
     }
 }
